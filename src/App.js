@@ -1,7 +1,6 @@
 import React from 'react'
 import {BrowserRouter, Routes, Route} from "react-router-dom"
 import { Box } from '@mui/system'
-
 import Navbar from "./components/Navbar"
 import Feed from "./components/Feed"
 import VideoDetail from "./components/VideoDetail"
